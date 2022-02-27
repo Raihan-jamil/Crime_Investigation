@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89817804066",
+    "firebase_url": "https://crime-investigation-2345b.firebaseio.com",
+    "project_id": "crime-investigation-2345b",
+    "storage_bucket": "crime-investigation-2345b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89817804066:android:774cfb4fac72e626",
+        "android_client_info": {
+          "package_name": "com.example.crimeinvestigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89817804066-mfi4tanlcsg3siuu67g20c0ef2bv4dv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_mbCBgnea0PwAtQC0w6UsVpidCYoH98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89817804066-mfi4tanlcsg3siuu67g20c0ef2bv4dv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
